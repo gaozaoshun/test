@@ -1,4 +1,4 @@
-学习git：
+﻿学习git：
 1.git add readme.txt
 2.git commit
 3.版本更新。
@@ -9,3 +9,5 @@
 
 随便大大
 oooooooooooooo
+
+33333333333333
